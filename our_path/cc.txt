@@ -1,0 +1,134 @@
+PHASE 1 — Python Fundamentals
+✓ print()
+✓ variables
+✓ data types
+✓ input()
+✓ operators
+✓ if/elif/else
+✓ loops
+✓ lists
+✓ strings
+✓ functions
+✓ dictionaries
+→ JSON
+→ Files
+→ Modules/import
+→ Error handling
+
+PHASE 2 — Strong Python
+Tuples
+Sets
+Comprehensions
+Nested data structures
+Lambda
+map/filter
+Iterators
+Generators
+Decorators
+Type hints
+Dataclasses
+Context managers
+
+PHASE 3 — Real Programming
+Modules
+Packages
+Virtual environments
+pip
+APIs
+HTTP
+JSON
+File handling
+CSV
+Logging
+Debugging
+Testing
+Git/GitHub
+Project structure
+
+PHASE 5 — DSA
+Arrays / Lists
+Linked Lists
+Stacks
+Queues
+Hash Tables
+Recursion
+Searching
+Sorting
+Trees
+Binary Trees
+BST
+Heaps
+Graphs
+Graph traversal
+Greedy algorithms
+Dynamic Programming
+Backtracking
+
+And alongside:
+
+Time Complexity
+Space Complexity
+Big-O
+Big-Ω
+Big-Θ
+
+PHASE 7 — Databases
+SQL
+SQLite
+MySQL/PostgreSQL
+Tables
+Primary keys
+Foreign keys
+Relationships
+CRUD
+Indexes
+Transactions
+Database design
+
+PHASE 8 — Web / Backend
+HTTP
+REST APIs
+Flask
+FastAPI
+Authentication
+Authorization
+Sessions
+JWT
+Databases
+Deployment
+
+PHASE 10 — Cybersecurity
+Linux
+Bash
+Networking
+TCP/IP
+DNS
+HTTP
+Web architecture
+Cryptography
+Authentication
+OWASP concepts
+Secure coding
+Security automation
+Digital forensics
+Threat analysis
+CTFs
+Penetration testing
+
+Learn:
+Concept
+↓
+Theory
+↓
+Example
+
+Code:
+Write it yourself
+↓
+Run it
+↓
+Change it
+↓
+Break it
+↓
+Fix it

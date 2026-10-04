@@ -1,0 +1,6 @@
+{
+    "name": "Dhrubo",
+    "age": 20,
+    "skills": ["HTML", "Python"],
+    "is_student": true
+}
