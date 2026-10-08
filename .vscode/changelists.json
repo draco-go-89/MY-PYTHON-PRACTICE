@@ -3,9 +3,8 @@
     {
       "name": "Default",
       "files": [
-        "general/art1.py",
-        ".vscode/changelists.json",
-        "general/art2.py"
+        "general/art3.py",
+        ".vscode/changelists.json"
       ]
     }
   ],
