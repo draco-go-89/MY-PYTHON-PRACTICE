@@ -3,9 +3,8 @@
     {
       "name": "Default",
       "files": [
-        ".vscode/changelists.json",
-        "general/star.py",
-        "general/spiral.py"
+        "general/ig.py",
+        ".vscode/changelists.json"
       ]
     }
   ],
