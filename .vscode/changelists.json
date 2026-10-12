@@ -3,11 +3,8 @@
     {
       "name": "Default",
       "files": [
-        "general/art4.py",
-        ".vscode/changelists.json",
-        "general/__pycache__/turtle.cpython-313.pyc",
-        "general/inturtle.py",
-        "general/art3.py"
+        "general/discount_percentage.py",
+        ".vscode/changelists.json"
       ]
     }
   ],
