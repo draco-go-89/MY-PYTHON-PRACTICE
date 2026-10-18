@@ -3,7 +3,7 @@
     {
       "name": "Default",
       "files": [
-        "general/discount_percentage.py",
+        "general/text-to-binary.py",
         ".vscode/changelists.json"
       ]
     }
