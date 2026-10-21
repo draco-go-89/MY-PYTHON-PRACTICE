@@ -1,6 +1,6 @@
 marks = int(input("Enter your marks: "))
 if marks >= 90:
-    print("A+")
+    print("Congrates! You are On Top")
 elif marks >= 80:
     print("A")
 elif marks >= 70:

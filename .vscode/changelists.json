@@ -1,0 +1,13 @@
+{
+  "changelists": [
+    {
+      "name": "Default",
+      "files": [
+        "general/ifelse.py",
+        ".vscode/changelists.json",
+        "day1/part33.py"
+      ]
+    }
+  ],
+  "active": "Default"
+}
