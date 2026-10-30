@@ -3,9 +3,9 @@
     {
       "name": "Default",
       "files": [
-        "general/ifelse.py",
+        "general/textloop.py",
         ".vscode/changelists.json",
-        "day1/part33.py"
+        "general/count_output.txt"
       ]
     }
   ],
